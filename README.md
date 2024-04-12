@@ -8,7 +8,9 @@ The parameters used here are no.of overs bowled, no of wickets taken, runs score
 The Model built using the Multi-regression models shows exceptional results with 92 accuracy. 
 
 # Input Screen
-<img width="1440" alt="Screenshot 2024-04-12 at 1 15 52 AM" src="https://github.com/pranith256/Cricket-Score-Predictor/assets/64703814/58f60478-6510-44eb-abcc-1e820784155e">
+
+<img width="1440" alt="Screenshot 2024-04-12 at 1 30 30 AM" src="https://github.com/pranith256/Cricket-Score-Predictor/assets/64703814/60ea181d-4bde-4f44-b61b-243b02e632f3">
+
 
 # Output Screen
 <img width="1440" alt="Screenshot 2024-04-12 at 1 15 24 AM" src="https://github.com/pranith256/Cricket-Score-Predictor/assets/64703814/ca536a2c-4851-4154-ad60-65657b7b4fae">
