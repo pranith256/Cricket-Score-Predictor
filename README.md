@@ -9,6 +9,7 @@ I have taken a dataset from Kaggle which contains more than 120k records , of ev
 
 The input parameters used here to train the model are no.of overs bowled, no of wickets taken, runs scored in the previous 3 overs, and wickets taken in the previous 3 overs.
 
+# Model
 The Model built using the Multi-regression models shows exceptional results with 92 accuracy. 
 
 # Input Screen
