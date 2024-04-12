@@ -3,7 +3,11 @@ This is a Flask-based application used to predict the final score of an innings.
 
 I have developed a Single Page application using Flask Framework.
 
-The parameters used here are no.of overs bowled, no of wickets taken, runs scored in the previous 3 overs, and wickets taken in the previous 3 overs.
+# Dataset
+
+I have taken a dataset from Kaggle which contains more than 120k records , of every bowl bowled since the start of the IPL(2009-2021).
+
+The input parameters used here to train the model are no.of overs bowled, no of wickets taken, runs scored in the previous 3 overs, and wickets taken in the previous 3 overs.
 
 The Model built using the Multi-regression models shows exceptional results with 92 accuracy. 
 
